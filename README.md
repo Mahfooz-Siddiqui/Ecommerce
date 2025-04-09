@@ -1,4 +1,17 @@
-<<<<<<< HEAD
+![image](https://github.com/user-attachments/assets/4ed28e83-7cc2-4fc6-a9a6-1335cab5a224)<<<<<<< HEAD
+
+DEMO
+
+![image](https://github.com/user-attachments/assets/d3d96fc4-51a6-4b98-a902-e11f96983dd7)   ![image](https://github.com/user-attachments/assets/88878f4e-ec7a-4ec7-8a23-63285f545dc9)
+
+![image](https://github.com/user-attachments/assets/86e89d0f-eadc-4d0f-8978-62eb158ec93d)   ![image](https://github.com/user-attachments/assets/34f9c3c3-9c14-4a16-879a-62a36898c7b2)
+
+![image](https://github.com/user-attachments/assets/f794c062-b75e-42a9-8c76-4a52f1dda5fc)   ![image](https://github.com/user-attachments/assets/44bafa1a-5b34-4e2a-9873-1eb82acebb3e)
+![image](https://github.com/user-attachments/assets/34d40f05-c804-4757-91bc-65459147dfcc)   ![image](https://github.com/user-attachments/assets/61db2333-2f36-49f5-ba2a-d16a09855ace)
+![image](https://github.com/user-attachments/assets/22fe1a0f-a946-4684-bdc1-54706b34f0e9)   ![image](https://github.com/user-attachments/assets/f0e791fc-99c8-4571-89fe-4421d7e53ff6)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
